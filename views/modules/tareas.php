@@ -23,7 +23,6 @@
                         </h3>
                     </a>
                         <p class="post-meta">Publicado
-                        <a href="#"></a>
                         en Septiembre 2, 2018
                         </p>
                     </div>
@@ -46,7 +45,7 @@
                             Algoritmo Congruencial Lineal Mixto
                             </h4>
                         </a>
-                        <a href="https://simulacion-ii-2018.000webhostapp.com/index.php?action=practica2">
+                        <a href="index.php?action=generador_multiplicativo">
                             <h4 class="post-subtitle">
                             Algoritmo Congruencial Multiplicativo
                             </h4>

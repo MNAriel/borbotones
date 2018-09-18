@@ -4,7 +4,7 @@ class EnlacesPaginas{
 
 	static public function enlacesPaginasModel($enlacesModel){
 
-		if($enlacesModel == "nosotros" || 
+		if($enlacesModel == "generador_multiplicativo" || 
 		   $enlacesModel == "tareas" || 
 		   $enlacesModel == "integrantes"){
 

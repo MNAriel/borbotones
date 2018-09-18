@@ -34,8 +34,8 @@ $mvc -> enlacesPaginasController();
 ?>
 	
 </section>
-<footer class="container-fluid text-center">
+<!-- <footer class="container-fluid text-center">
     <p class="copyright text-muted">Copyright &copy; Your Website 2018</p>
-</footer>
+</footer> -->
 </body>
 </html>
