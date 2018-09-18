@@ -15,10 +15,6 @@
                     <input type="text" class="form-control" name="a_date" placeholder="a">
                 </div>
                 <div class="col-xs-2">
-                    <label for="ex3">ctte. aditiva</label>
-                    <input type="text" class="form-control" name="c_date" placeholder="c">
-                </div>
-                <div class="col-xs-2">
                     <label for="ex3">modulo</label>
                     <input type="text" class="form-control" name="m_date" placeholder="m">
                 </div>
@@ -40,7 +36,7 @@
                     <tr>
                 <?php
 
-                $generar = new MultiplicadorController();
+                $generar = new GeneradorController();
                 $generar -> datesFilterController();
 
                 ?>

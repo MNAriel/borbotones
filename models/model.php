@@ -4,7 +4,7 @@ class EnlacesPaginas{
 
 	static public function enlacesPaginasModel($enlacesModel){
 
-		if($enlacesModel == "generador_multiplicativo" || 
+		if($enlacesModel == "generador_lineal" || 
 		   $enlacesModel == "tareas" || 
 		   $enlacesModel == "integrantes"){
 

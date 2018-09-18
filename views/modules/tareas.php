@@ -45,7 +45,7 @@
                             Algoritmo Congruencial Lineal Mixto
                             </h4>
                         </a>
-                        <a href="index.php?action=generador_multiplicativo">
+                        <a href="index.php?action=generador_lineal">
                             <h4 class="post-subtitle">
                             Algoritmo Congruencial Multiplicativo
                             </h4>

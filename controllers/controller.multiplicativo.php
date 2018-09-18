@@ -1,9 +1,9 @@
 <?php
     require_once "models/model.multiplicativo.php";
 
-    class MultiplicadorController {
+    class GeneradorController {
 
-        public function datesFilterController() {
+        public function linealController() {
 
             if(isset($_POST["submit"]) && $_SERVER["REQUEST_METHOD"] == "POST") {
                 if(empty($_POST["a_date"])){
